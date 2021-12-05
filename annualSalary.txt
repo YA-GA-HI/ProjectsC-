@@ -1,0 +1,10 @@
+algorithme annualSalary
+varibles
+    annualSalary,mounthlySalary:entier
+debut
+    ecrire('enter your annualy salary: ')
+    lire(annualSalary)
+    mounthlySalary = annualSalary/12
+    ecrire('Your monthly Salay is : ')
+    ecrire(mounthlySalary)
+fin
